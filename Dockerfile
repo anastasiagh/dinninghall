@@ -6,4 +6,4 @@ RUN pip install requests flask
 
 EXPOSE 3000
 
-CMD ["python","-u","kitchen.py" ]
+CMD ["python","-u","dinninghall.py" ]
